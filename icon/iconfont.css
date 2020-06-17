@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1592309240059'); /* IE9 */
+  src: url('iconfont.eot?t=1592309240059#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQ0AAsAAAAACGgAAAPlAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqESIN1ATYCJAMMCwgABCAFhG0HPhtDBxGVnEnIPhJjt9FgC980UBURC3EYPPBt6vt8oFR8qoLMRMg8ycRoJ+p0Yjeyo4ic/JitZct+qeoHYTL+u3xw1Vd7NXvXs5PNUTVOoxSSQdXx/HHv9M/zwOazLJc/GpPGtj096gKMAwpojSlcIAF51+rawAP5a5oPASRRgiWmXYduJgYqUTMBiEnjxw7H6OlQV9IFBgJ9pq+K2IiGoYSVANhQfl/8oI4wQEGTRG17jWk/ilafS33uIt24y6AcQXKfBeCDQALVAFQQQ2Zt/ZB1oBp9kjy1uh6voyJQ7nLH41Cyvlb/6R9PAaETqVOArBRU4HOpVAQBn7voUACXjXUgHcgDfiIy35oJGJVnSbpMSk1NSdNSEhPzv9jOyYNV7BNJhyqZuSKSne+YW9kyt+Yzye/lT3ZyCzrW8WhV52RoSG40v+Vty9fLnpQTKujker0JzdpmrDXKrnVrLjS3RgrYjuW5I6LzHUI5kXzmVtcb63nJqVHjS0qJbB2eal2DDPEdK6RuP847niwqbSspp0D/kEjRUvPDxLjJI47eDt2K5Lk3nehx91jkROikGc0tmFPYjOvV7xN7HkWCYp7XNONKENzw6xYou3xZmSJ32vp+EKvToEw4XKZB2Viwc6dllPvTtG731C/lXXv79lgwd6Y6a9aUbfCh/5yM02XL22K/3LWrdt926e3Da9q/bRcLDh5QqF171y6gYF+xaJFXqNa0GeFwu3QziB04EAvap/8KJY25fXtM9le+oizdC058o9nUz/ITqe9kzyHNJo1kcLNBBY8z54phYm7mb9ZY4V+cO3zYgGFa+Cm8HVZlsVL18y9ro5yzGsexxcJUUdgUSWs0+0j0jazPak+ybjxI9uw1VBonGeYBAPE8+VC2B0AWUV64+W+4/P/NjSD95K+RPACAF2mP/5eOeJ7Kfq1hI3YBLizZmaP6skgvVcOmbBiWDGVifzTQQoO7ZgJk8X1em383B4Q2fwsKCRQHiUE5VCWrgUYy9UDHoCUkUZXLwclkI/QR6hSgCq8IBBm8gUIat0GSwTuqkl+gUYB/0MkQEpKwxdGYyVQQ45NOZ1CklGL8hEXCrU2MOqvSryjr6ki6spJ7R+ILN+5q1BqGL6kluaODv8/2qhatcIMXaDGqa0YnXFKi61zVHTY1x8zdaJ1wAzPaIhARCpGCxDyBFCQwLTYvrMxGn7+CyOioiZCVrJ74HYTgKUpHdqzZ7kAv1e2urH85xHNPxh5FsSAWgWlALpCFqOMAg7j5WiVEgrImP+FzHNjgfHavev2+trHfIiCJaDspeqZvBqAvmM2uaOcy2ncNreqiJQAAAAA=') format('woff2'),
+  url('iconfont.woff?t=1592309240059') format('woff'),
+  url('iconfont.ttf?t=1592309240059') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1592309240059#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zuopin:before {
+  content: "\e620";
+}
+
+.icon-resume-line:before {
+  content: "\e64a";
+}
+
